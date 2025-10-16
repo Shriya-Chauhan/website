@@ -132,7 +132,7 @@ const config: Config = {
         'dark-text': '#B8B9C0',
         'dark-heading': '#FFFFFF',
         foreground: '#F8FAFC',
-        prim: '#00CFFF' /* Vibrant cyan */,
+        prim: '#00CFFF' /* Vibrant cyan color*/,
         sec: '#D633FF' /* Electric purple */,
         accent: '#FFD166' /* Warm amber */,
         border: '#1E293B' /* Navy border */,
