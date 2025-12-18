@@ -76,4 +76,6 @@ async function start() {
 
 export { start };
 
-start();
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  start();
+}
